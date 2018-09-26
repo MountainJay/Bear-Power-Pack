@@ -5,7 +5,7 @@ This workflow 	publishes notes from Bear to WordPress with images, tags, and fea
 
 It works well with both WordPress.com and WordPress.org (self hosted WordPress) sites.
 
-**Install Workflow:  [Bear note to WordPress](https://workflow.is/workflows/c9ece7c8e2e64d4599c74ed6824f54b4)** – iOS
+**Install Workflow:  [Bear note to WordPress](shortcuts/Bear%20note%20to%20WordPress.shortcut)** – iOS
 
 *Part of: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
 
